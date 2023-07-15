@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently a **Flutter and Full Stack Developer**
 
-- 🌱 I’m currently learning **php and node.js**
+- 🌱 I’m currently learning **Kotlin**
 
 - 🤝 I’m also Mastering DSA to **Empower my problem-solving potential**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **prateekp18012000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1y6YCSL9EG7WoygPGPbSmsoPgdMvz0or2/view?usp=drivesdk](https://drive.google.com/file/d/1y6YCSL9EG7WoygPGPbSmsoPgdMvz0or2/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12b38s4JC1uX4nx0VvsV8E1miGObFi2fW/view?usp=drivesdk](https://drive.google.com/file/d/12b38s4JC1uX4nx0VvsV8E1miGObFi2fW/view?usp=drivesdk)
 
 - ⚡ Fun fact **Coding with a Twist**
 
