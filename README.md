@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/prateekpatel273" target="blank"><img src="https://img.shields.io/twitter/follow/prateekpatel273?logo=twitter&style=for-the-badge" alt="prateekpatel273" /></a> </p>
 
-- 🔭 I’m currently a **full stack developer**
+- 🔭 I’m currently a **Flutter and Full Stack Developer**
 
 - 🌱 I’m currently learning **php and node.js**
 
