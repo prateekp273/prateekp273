@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **prateekp18012000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12b38s4JC1uX4nx0VvsV8E1miGObFi2fW/view?usp=drivesdk](https://drive.google.com/file/d/12b38s4JC1uX4nx0VvsV8E1miGObFi2fW/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/134Hft6T1Rx7wKvKfu41GcdEebTxs_VKj/view?usp=drivesdk](https://drive.google.com/file/d/134Hft6T1Rx7wKvKfu41GcdEebTxs_VKj/view?usp=drivesdk)
 
 - ⚡ Fun fact **Coding with a Twist**
 
