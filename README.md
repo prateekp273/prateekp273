@@ -15,7 +15,7 @@
 
 - 🤝 I’m also Mastering DSA to **Empower my problem-solving potential**
 
-- 💬 Ask me about **AI, Open AI tools**
+- 💬 Ask me about **AI, Open AI tools, Development**
 
 - 📫 How to reach me **prateekp18012000@gmail.com**
 
